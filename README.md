@@ -17,10 +17,10 @@ _A collection of my competitive programming solutions_
 
 | Platform          | Count  |
 | ----------------- | ------ |
-| 🟢 **LeetCode**   | 3      |
+| 🟢 **LeetCode**   | 6      |
 | 🟡 **CSES**       | 6      |
 | 🔴 **Codeforces** | 1      |
-| **Total**         | **10** |
+| **Total**         | **13** |
 
 
 ## 🛠️ Tech Stack
