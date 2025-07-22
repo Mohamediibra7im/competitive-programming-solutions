@@ -19,8 +19,8 @@ _A collection of my competitive programming solutions_
 | ----------------- | ------ |
 | 🟢 **LeetCode**   | 6      |
 | 🟡 **CSES**       | 6      |
-| 🔴 **Codeforces** | 1      |
-| **Total**         | **13** |
+| 🔴 **Codeforces** | 2      |
+| **Total**         | **14** |
 
 
 ## 🛠️ Tech Stack
