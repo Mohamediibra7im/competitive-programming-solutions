@@ -18,9 +18,9 @@ _A collection of my competitive programming solutions_
 | Platform          | Count  |
 | ----------------- | ------ |
 | 🟢 **LeetCode**   | 6      |
-| 🟡 **CSES**       | 6      |
+| 🟡 **CSES**       | 7      |
 | 🔴 **Codeforces** | 2      |
-| **Total**         | **14** |
+| **Total**         | **15** |
 
 
 ## 🛠️ Tech Stack
@@ -28,7 +28,7 @@ _A collection of my competitive programming solutions_
 - **Language**: C++17/20
 - **Environment**: Visual Studio Code
 
-## 📞 Connect With Me
+## Connect With Me
 
 - **GitHub**: [@Mohamediibra7im](https://github.com/Mohamediibra7im)
 - **LinkedIn**: [Mohammed Ibrahim](https://www.linkedin.com/in/mohammed-ibra7im)
