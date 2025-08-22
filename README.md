@@ -13,16 +13,6 @@ _A collection of my competitive programming solutions_
 
 </div>
 
-## 📊 Problems Solved
-
-| Platform          | Count  |
-| ----------------- | ------ |
-| 🟢 **LeetCode**   | 6      |
-| 🟡 **CSES**       | 14     |
-| 🔴 **Codeforces** | 2      |
-| **Total**         | **22** |
-
-
 ## 🛠️ Tech Stack
 
 - **Language**: C++17/20
